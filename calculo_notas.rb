@@ -19,4 +19,4 @@ def nota_mas_alta(x)
     return y.max
 end
 
-puts nota_mas_alta(array[3])
+puts nota_mas_alta(array[0])
